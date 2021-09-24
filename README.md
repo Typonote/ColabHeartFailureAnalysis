@@ -15,6 +15,7 @@ colab과 Python을 이용하여 심부전(Heart_Failure) 데이터 분석하기
 - StandardScaler
 - XGBoost 
 
+
 ## ✨ 참고사항
 
 출처 : https://www.kaggle.com/andrewmvd/heart-failure-clinical-data?select=heart_failure_clinical_records_dataset.csv
